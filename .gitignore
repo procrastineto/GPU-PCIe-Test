@@ -42,3 +42,6 @@
 
 # Intellij IDEA
 /.idea
+
+# Visual Studio
+/.vs
